@@ -1,0 +1,9 @@
+# python-functions
+def sum_nb_list(list):
+    s=0
+    for i in list:
+        s+=i
+    return s
+
+#list=[1,2,3,4]
+#print(sum_nb_list(list))
