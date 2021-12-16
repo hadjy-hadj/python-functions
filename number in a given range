@@ -1,0 +1,7 @@
+# python-functions
+def number_in(number):
+    n1=int(input())
+    n2=int(input())
+    return( number in range(n1,n2))
+
+#print(number_in(21))
