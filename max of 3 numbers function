@@ -1,0 +1,7 @@
+# python-functions
+def max(n1,n2,n3):
+    list=[n1,n2,n3]
+    list.sort()
+    return list[-1]
+
+#print(max(2,76,4))
